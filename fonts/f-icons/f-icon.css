@@ -1,0 +1,127 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "f-icon";
+    src: url("./f-icon.ttf") format("truetype"),
+        url("./f-icon.woff") format("woff"),
+        url("./f-icon.woff2") format("woff2"),
+        url("./f-icon.eot") format("embedded-opentype"),
+        url("./f-icon.svg") format("svg");
+}
+
+i[class^="f-icon-"]:before,
+i[class*=" f-icon-"]:before {
+    font-family: f-icon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    filter: drop-shadow(3px 3px 1px black);
+}
+
+.f-icon-cutlery:before {
+    content: "\f101";
+}
+
+.f-icon-tray:before {
+    content: "\f102";
+}
+
+.f-icon-dish:before {
+    content: "\f103";
+}
+
+.f-icon-chef:before {
+    content: "\f104";
+}
+
+.f-icon-fast-food:before {
+    content: "\f105";
+}
+
+.f-icon-fast-food-1:before {
+    content: "\f106";
+}
+
+.f-icon-restaurant:before {
+    content: "\f107";
+}
+
+.f-icon-waiter:before {
+    content: "\f108";
+}
+
+.f-icon-food:before {
+    content: "\f109";
+}
+
+.f-icon-poinsettia:before {
+    content: "\f10a";
+}
+
+.f-icon-hot-pot:before {
+    content: "\f10b";
+}
+
+.f-icon-asian-food:before {
+    content: "\f10c";
+}
+
+.f-icon-noodles:before {
+    content: "\f10d";
+}
+
+.f-icon-dinner:before {
+    content: "\f10e";
+}
+
+.f-icon-cooking:before {
+    content: "\f10f";
+}
+
+.f-icon-eating:before {
+    content: "\f110";
+}
+
+.f-icon-starters:before {
+    content: "\f111";
+}
+
+.f-icon-wine:before {
+    content: "\f112";
+}
+
+.f-icon-hot:before {
+    content: "\f113";
+}
+
+.f-icon-barbeque:before {
+    content: "\f114";
+}
+
+.f-icon-soup:before {
+    content: "\f115";
+}
+
+.f-icon-baking:before {
+    content: "\f116";
+}
+
+.f-icon-chinese-food:before {
+    content: "\f117";
+}
+
+.f-icon-fish:before {
+    content: "\f118";
+}
+
+.f-icon-meat:before {
+    content: "\f119";
+}
+
+.f-icon-meal:before {
+    content: "\f11a";
+}
