@@ -113,7 +113,7 @@
 
 .r-slider .hero-title h4 {
   font-size: 16px;
-  font-family: "Playfair Display", cursive;
+  font-family: var(--title-fonts);
   font-style: italic;
   color: #fff;
   position: relative;
@@ -139,7 +139,7 @@
   border: 1px solid var(--design-color);
   color: #fff;
   margin-top: 40px;
-  font-family: "Playfair Display", cursive;
+  font-family: var(--title-fonts);
   font-weight: 600;
   font-size: 13px;
   transition: all 200ms linear;
@@ -184,7 +184,7 @@
 
 .r-slider .hero_promo-title {
   float: left;
-  font-family: "Playfair Display", cursive;
+  font-family: var(--title-fonts);
   font-style: italic;
   color: #fff;
   position: relative;
@@ -292,7 +292,7 @@
 }
 
 .r-slider .grid-carousel-title h3 {
-  font-family: "Playfair Display", cursive;
+  font-family: var(--title-fonts);
   font-size: 34px;
   font-weight: 800;
   color: #fff;
@@ -318,7 +318,7 @@
 .r-slider .grid-carousel-title h4 {
   font-weight: 700;
   padding-top: 10px;
-  font-family: "Playfair Display", cursive;
+  font-family: var(--title-fonts);
   color: var(--design-color);
   font-style: italic;
   padding-bottom: 20px;
@@ -353,7 +353,7 @@
   width: 50px;
   margin-left: -25px;
   z-index: 19;
-  font-family: "Playfair Display", cursive;
+  font-family: var(--title-fonts);
   font-size: 20px;
   text-align: center;
   opacity: 0;
