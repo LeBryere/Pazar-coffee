@@ -280,5 +280,4 @@ function initPazarCoffee() {
 //   Init All ------------------
 $(document).ready(function () {
     initPazarCoffee();
-    initparallax();
 });
