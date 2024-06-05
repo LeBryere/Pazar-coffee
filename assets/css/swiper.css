@@ -263,14 +263,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  right: 60px;
+  right: 25px;
 }
 
 .r-slider .hero-slider_btn_prev {
   display: flex;
   justify-content: center;
   align-items: center;
-  left: 60px;
+  left: 25px;
 }
 
 .r-slider .grid-carousel-title {
@@ -408,7 +408,7 @@
 .r-slider .fs-slider-item .grid-carousel-title {
   opacity: 1;
   transform: scale(1);
-  top: 40%;
+  top: 23%;
 }
 
 .r-slider .fs-slider-item .grid-carousel-title h3 {
