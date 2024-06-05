@@ -21,7 +21,7 @@
 ### Basic Usage
 
 
-The inspiration for the site comes from the Vitorlás Étterem Balatonlelle.
+The inspiration for the site comes from the Pazar Coffee Balatonfüred.
 
 ### Variables
 ```css
