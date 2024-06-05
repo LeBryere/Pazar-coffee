@@ -1,4 +1,4 @@
-# [Pazar Coffee](https://lebryere.github.io/Vitorlas-etterem/)
+# [Pazar Coffee](https://lebryere.github.io/Pazar-coffee/)
 
 ## Browser Support
 
@@ -8,13 +8,13 @@
 
 ## Preview
 
-[![Resume Preview](preview.jpg)](https://lebryere.github.io/Vitorlas-etterem/)
+[![Resume Preview](preview.jpg)](https://lebryere.github.io/Pazar-coffee/)
 
-**[View Live Preview](https://lebryere.github.io/Vitorlas-etterem/)**
+**[View Live Preview](https://lebryere.github.io/Pazar-coffee/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Vitorlas-etterem/master/LICENSE).
+[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Pazar-coffee/master/LICENSE).
 
 ## Usage
 
@@ -38,4 +38,4 @@ The inspiration for the site comes from the Pazar Coffee Balatonfüred.
 
 ## Copyright and License
 
-Copyright 2024 Lebryere. Code released under the [![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Vitorlas-etteremmaster/LICENSE).
+Copyright 2024 Lebryere. Code released under the [![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Pazar-coffee/master/LICENSE).
